@@ -1,0 +1,18 @@
+Finite runner created with CSFML.
+
+USAGE
+    ./my_runner map.txt
+
+OPTIONS
+    -h print the usage and quit.
+
+GAME
+    The game is a reproduction of Cup head but adapted as a runner
+    The objectiv is to run as far as possible in dodging the obstacle
+    and jumping on the cloud's plateforms
+
+USER INTERACTIONS
+    SPACE_KEY jump.
+    RIGHT_ARROW run to the right
+    LEFT_ARROW run to the left
+    ESC to make the game paused
